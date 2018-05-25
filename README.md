@@ -6,3 +6,5 @@ In this game i use the lots of css styling and dom manupulation and event haldli
                                                           
 # SCREENSHOTS-
 
+https://github.com/deep310/RGB-Color-Guessing-Game/blob/master/ColorGameSolution/Image1.png
+
